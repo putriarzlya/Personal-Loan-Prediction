@@ -1,0 +1,5 @@
+# Link HuggingFace :
+https://huggingface.co/spaces/putriarzlya/P1_FTDS_HCK013_Milestone2
+
+# Link Dataset :
+https://www.kaggle.com/datasets/teertha/personal-loan-modeling/data 
